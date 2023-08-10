@@ -23,13 +23,15 @@ This is a simple web application built with Node.js and Express that fetches and
     
         npm install 
         npm install express
+        npm install node-fetch
    
 4. Start the server:
     
         node app.js
-5. Open your web browser and go to http://localhost:3000 to view the list of news articles.
+   
+6. Open your web browser and go to http://localhost:3000 to view the list of news articles.
 
-6. Click on the Button ``Dice looking`` Button" to get the advice.
+7. Click on the Button ``Dice looking`` Button" to get the advice.
 
 ## Contributions
 If you find a bug or would like to suggest a feature, please create a new issue or pull request. Your contributions are greatly appreciated!
